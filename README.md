@@ -2,4 +2,4 @@ hello-world
 ===========
 
 just another repo
-Cameron firts try nothing in here yet
+Cameron first try nothing in here yet
