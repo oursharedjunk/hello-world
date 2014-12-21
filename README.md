@@ -1,5 +1,7 @@
-hello-world
+HMMMMM?
 ===========
 
-just another repo
-Cameron first try nothing in here yet
+This is Kind of cool 
+lets add anything maybe a song or pics 
+What kind of programs can i play with
+hmmmm?
